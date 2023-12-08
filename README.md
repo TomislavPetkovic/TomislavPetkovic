@@ -1,4 +1,12 @@
-### Hi there 👋
+Research Topics
+
+- 3D recontruction
+- structured light
+- camera calibration
+
+Current Projects
+
+- [Robust Structured Light Coding for 3D Imaging in Difficult Conditions](https://www.fer.unizg.hr/3dcoding/en)
 
 <!--
 **TomislavPetkovic/TomislavPetkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
